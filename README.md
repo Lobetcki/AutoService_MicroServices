@@ -61,6 +61,6 @@ Mockito
 Для запуска приложения нужно:
 Клонировать проект и открыть его в среде разработки (например, IntelliJ IDEA или VSCode);
 В файле application.properties указать путь к Вашей базе данных;
-Запустить метод main в файле Application.java.
+Запустить метод main в файле AutoServiceMicroServicesApplication.java.
 Разработчик:
 Михайловский Антон
